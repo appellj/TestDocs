@@ -15,3 +15,4 @@ This documentation will help you get up and running fast and provides a full ref
 
    intro
    quick-tour
+   tutorial
